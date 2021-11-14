@@ -1,4 +1,4 @@
-name: video_player
+name: video_player_x
 description: Flutter plugin for displaying inline video with other Flutter
   widgets on Android and iOS.
 # 0.10.y+z is compatible with 1.0.0, if you land a breaking change bump
@@ -38,5 +38,5 @@ dev_dependencies:
   pigeon: ^1.0.10
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.10.0 <3.0.0'
   flutter: ">=1.12.13+hotfix.5 <2.0.0"

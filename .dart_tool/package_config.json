@@ -236,13 +236,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "video_player",
+      "name": "video_player_x",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.10"
     }
   ],
-  "generated": "2021-11-14T11:07:39.509511Z",
+  "generated": "2021-11-14T11:55:21.103225Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
